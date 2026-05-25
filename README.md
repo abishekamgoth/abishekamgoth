@@ -1,99 +1,92 @@
-# Abhishek Amgoth
+<h1 align="center">Hi 👋, I'm Abhishek Amgoth</h1>
 
-### AI & Data Science Student • Machine Learning Enthusiast • Python Developer
+<h3 align="center">
+AI & Data Science Student • Machine Learning Enthusiast • Python Developer
+</h3>
 
-Building practical AI/ML applications using Machine Learning, NLP, and Generative AI technologies.
-
----
-
-## About Me
-
-I am a B.Tech student in Artificial Intelligence and Data Science at IIIT Sri City with strong interest in:
-
-- Machine Learning
-- NLP & Generative AI
-- Predictive Analytics
-- RAG Applications
-- Data Science
-
-I enjoy building real-world AI systems and continuously improving my development and problem-solving skills.
+<p align="center">
+Building practical AI/ML applications using Machine Learning, NLP, and Generative AI.
+</p>
 
 ---
 
-## Featured Projects
+## 🚀 About Me
 
-### Legal Case Prediction using RAG
-
-RAG-based legal document retrieval and prediction system using LangChain and FAISS for semantic search and legal case analysis.
-
-**Tech Stack:**  
-Python • LangChain • FAISS • FastAPI • NLP
-
-[GitHub Repo](https://github.com/abishekamgoth/Casechain-ai)
+🎓 B.Tech in Artificial Intelligence & Data Science at IIIT Sri City  
+🤖 Passionate about Machine Learning, NLP, and Generative AI  
+📊 Interested in Predictive Analytics and RAG Applications  
+💡 Love building real-world AI systems and scalable ML solutions  
+🌱 Currently improving my DSA, FastAPI, and GenAI development skills  
 
 ---
 
-### Medical Insurance Cost Prediction with Fairness Analysis
-
-Machine learning pipeline for predicting insurance costs with fairness-aware evaluation and explainability analysis.
-
-**Tech Stack:**  
-Python • Scikit-learn • XGBoost • SHAP • MLflow
-
-[GitHub Repo](https://github.com/abishekamgoth/insurance-fairness-ml)
-
----
-
-### Hate Speech Detection System
-
-NLP-based classification system for detecting hate speech and offensive content using machine learning models.
-
-**Tech Stack:**  
-Python • NLP • Scikit-learn • Pandas
-
-[GitHub Repo](https://github.com/abishekamgoth/ml-portfolio)
-
----
-
-## Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
----
-
 ### Machine Learning & AI
-
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E4?style=for-the-badge)
 
----
-
 ### Development
-
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## Achievements
+# 📌 Featured Projects
 
-🏆 1st Place — TechSprint Buildathon by GDG IIIT Sri City  
-🏆 Most Promising Idea — IdeaVerse'26  
-🏆 Qualified Round 2 — UDBHAV 2025 Hackathon
+## ⚖️ Legal Case Prediction using RAG
+
+RAG-based legal document retrieval and prediction system using LangChain and FAISS for semantic search and legal case analysis.
+
+**Tech Stack:** Python • LangChain • FAISS • FastAPI • NLP
+
+🔗 Repo:  
+https://github.com/abishekamgoth/Casechain-ai
 
 ---
 
-## Internship Experience
+## 💰 Medical Insurance Cost Prediction with Fairness Analysis
 
-### Data Science Intern — 1Stop
+Machine learning pipeline for predicting insurance costs with fairness-aware evaluation and explainability analysis.
+
+**Tech Stack:** Python • Scikit-learn • XGBoost • SHAP • MLflow
+
+🔗 Repo:  
+https://github.com/abishekamgoth/insurance-fairness-ml
+
+---
+
+## 🛡 Hate Speech Detection System
+
+NLP-based classification system for detecting hate speech and offensive content using machine learning models.
+
+**Tech Stack:** Python • NLP • Scikit-learn • Pandas
+
+🔗 Repo:  
+https://github.com/abishekamgoth/ml-portfolio
+
+---
+
+# 🏆 Achievements
+
+- 🥇 1st Place — TechSprint Buildathon by GDG IIIT Sri City  
+- 🚀 Most Promising Idea — IdeaVerse'26  
+- 💡 Qualified Round 2 — UDBHAV 2025 Hackathon  
+
+---
+
+# 💼 Internship Experience
+
+## Data Science Intern — 1Stop
 
 Worked on:
 - Machine Learning workflows
@@ -101,15 +94,34 @@ Worked on:
 - Model evaluation
 - Predictive analytics projects
 
-**Tech Used:**  
-Python • Pandas • NumPy • Scikit-learn
+**Tech Used:** Python • Pandas • NumPy • Scikit-learn
 
 ---
 
-## Connect With Me
+# 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-amgoth)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge)](https://my-portfolio-m91o.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abishekamgoth)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abishekamgoth&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abishekamgoth&layout=compact&theme=tokyonight" />
+</p>
 
 ---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/abhishek-amgoth" target="blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://my-portfolio-m91o.onrender.com/" target="blank">
+<img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/abishekamgoth" target="blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
