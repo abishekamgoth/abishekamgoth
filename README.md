@@ -1,7 +1,7 @@
 # Abhishek Amgoth
 ### AI & Data Science Student • Machine Learning Enthusiast • Python Developer
 
-Building practical AI/ML applications using Machine Learning, NLP, and Generative AI technologies.
+Building practical AI/ML applications using Machine Learning, and Generative AI technologies.
 
 ---
 
